@@ -1,0 +1,104 @@
+# השכרה פלוס — Generative Engine Optimization Map
+
+> A rental business focused on offering top-quality stock or equipment for rent. The user emphasizes being the best in the market, suggesting a premium or professional positioning. The exact type of stock/inventory being rented is not yet specified.
+
+---
+
+## Pages
+
+### בית
+https://-3e564514.zappy5.app
+מחפשים united rentals stock symbol אמין? השכרה פלוס מציעה ציוד איכותי להשכרה עם שירות ללא תחרות. הצטרפו ללקוחות המרוצים והתחילו לחסוך עוד היום!
+
+### פתרונות
+https://-3e564514.zappy5.app/solutions
+פתרונות השכרה חכמים שמתאימים בדיוק לצרכים שלכם. גלו איך united rentals stock symbol משתלב בפרויקט שלכם וקבלו ייעוץ מקצועי שיחסוך לכם זמן וכסף.
+
+### אודות
+https://-3e564514.zappy5.app/about
+השכרה פלוס לא סתם משכירה ציוד – אנחנו מובילים את השוק עם united rentals uri אמין, שקיפות מלאה ומחויבות למצוינות. הכירו את הצוות שמאחורי ההצלחה.
+
+### צור קשר
+https://-3e564514.zappy5.app/contact
+מוכנים להתחיל? צרו קשר עם השכרה פלוס וקבלו הצעת מחיר משתלמת על united rentals uri. הצוות שלנו זמין לענות על כל שאלה ולהתאים לכם את הפתרון המושלם.
+
+### Products
+https://-3e564514.zappy5.app/products
+המוצרים שלנו - השכרה פלוס
+
+### Cart
+https://-3e564514.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-3e564514.zappy5.app/checkout
+תשלום
+
+### Login
+https://-3e564514.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-3e564514.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-3e564514.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-3e564514.zappy5.app/product/:slug
+פרטי המוצר - השכרה פלוס
+
+### Category
+https://-3e564514.zappy5.app/category/:slug
+מוצרים - השכרה פלוס
+
+### תודה על פנייתך
+https://-3e564514.zappy5.app/thank-you
+השכרה פלוס - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3e564514.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3e564514.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3e564514.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About השכרה פלוס
+A rental business focused on offering top-quality stock or equipment for rent. The user emphasizes being the best in the market, suggesting a premium or professional positioning. The exact type of stock/inventory being rented is not yet specified.
+
+## Target Audience
+- בעלי עסקים עם צורך בציוד
+- מתכנני אירועים
+- יזמי סטארטאפ
+
+## Industry
+Stock Rentals / Equipment Rental
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3e564514.zappy5.app/sitemap.xml
+- Robots: https://-3e564514.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3e564514.zappy5.app/llms-full.txt
+- Products (JSON): https://-3e564514.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-3e564514.zappy5.app/product-feed.xml
