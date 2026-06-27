@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-3e564514.zappy5.app
+https://example.com
 מחפשים united rentals stock symbol אמין? השכרה פלוס מציעה ציוד איכותי להשכרה עם שירות ללא תחרות. הצטרפו ללקוחות המרוצים והתחילו לחסוך עוד היום!
 
 ### פתרונות
-https://-3e564514.zappy5.app/solutions
+https://example.com/solutions
 פתרונות השכרה חכמים שמתאימים בדיוק לצרכים שלכם. גלו איך united rentals stock symbol משתלב בפרויקט שלכם וקבלו ייעוץ מקצועי שיחסוך לכם זמן וכסף.
 
 ### אודות
-https://-3e564514.zappy5.app/about
+https://example.com/about
 השכרה פלוס לא סתם משכירה ציוד – אנחנו מובילים את השוק עם united rentals uri אמין, שקיפות מלאה ומחויבות למצוינות. הכירו את הצוות שמאחורי ההצלחה.
 
 ### צור קשר
-https://-3e564514.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל? צרו קשר עם השכרה פלוס וקבלו הצעת מחיר משתלמת על united rentals uri. הצוות שלנו זמין לענות על כל שאלה ולהתאים לכם את הפתרון המושלם.
 
 ### Products
-https://-3e564514.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - השכרה פלוס
 
 ### Cart
-https://-3e564514.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-3e564514.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-3e564514.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-3e564514.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-3e564514.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-3e564514.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - השכרה פלוס
 
 ### Category
-https://-3e564514.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - השכרה פלוס
 
 ### תודה על פנייתך
-https://-3e564514.zappy5.app/thank-you
+https://example.com/thank-you
 השכרה פלוס - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-3e564514.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-3e564514.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-3e564514.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Stock Rentals / Equipment Rental
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-3e564514.zappy5.app/sitemap.xml
-- Robots: https://-3e564514.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-3e564514.zappy5.app/llms-full.txt
-- Products (JSON): https://-3e564514.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-3e564514.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
